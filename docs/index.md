@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 # Introduction
 This GitHub Pages aims to serve as a future useful resource for documentation on the technical workings of stages in Super Smash Bros. Ultimate.
